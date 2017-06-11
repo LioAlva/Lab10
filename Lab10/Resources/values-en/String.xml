@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <string name="ApplicationName">Android Localization</string>
+  <string name="ButtonText">Hello Word,Click Me!</string>
+  <string name="ContentHeader">Course content(spanhol)</string>
+
+  <plurals name="numberOfClicks">
+    <item quantity="one">There is %d Clic.</item>
+    <item quantity="other">There are %d Clics.</item>
+  </plurals>
+
+  <string name="textNomCorreo">Email:</string>
+  <string name="textNomContrasenia">Password:</string>
+  <string name="textNomValidar">Validate</string>
+  
+</resources>
